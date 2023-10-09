@@ -1,4 +1,4 @@
-package Coleccions.Exercicis.POU_01;
+package POU_01;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package Coleccions.Exercicis.POU_01;
+package POU_01;
 
 public class Main
 {

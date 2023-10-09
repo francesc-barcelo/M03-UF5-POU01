@@ -1,7 +1,8 @@
-package Coleccions.Exercicis.POU_01;
+package POU_01;
 
 import java.util.HashSet;
 import java.util.Scanner;
+import Coleccions.Exercicis.POU_01.Persona;
 
 public class Agenda
 {
@@ -18,7 +19,7 @@ public class Agenda
     {
         //Inicializamos la lista y la lectura por teclado
         listaPersonas = new HashSet<>(); // Perquè torna a declarar??
-        listaPersonas.add(new Persona("Gerard","Torrents","93456756"));
+        listaPersonas.add(new Coleccions.Exercicis.POU_01.Persona("Gerard","Torrents","93456756"));
         // listaPersonas.add(new Persona("Gerard","Torrents","75876596"));
         input = new Scanner(System.in);
 
